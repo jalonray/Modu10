@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modu10</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create">Create</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_reset">Reset</string>
+    <string name="level_text">Level %d</string>
+</resources>
